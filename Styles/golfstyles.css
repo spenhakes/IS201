@@ -1,0 +1,73 @@
+.header {
+    background-color: black;
+    height: 100px;
+    line-height: 100px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -60px;
+    padding-top: 0px;
+}
+h1 {
+    color: white;
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 450%;
+    padding-left: 10%;
+
+}.quote {
+    text-align: center;
+}
+
+#fullimage {
+    width: 100%;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+.list {
+    background-color: rgb(179, 5, 5);
+    color: white;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-left: 20%;
+}
+
+.listitem {
+    font-weight: bold;
+    font-size: large;
+}
+
+#whygolf {
+    font-weight: bold;
+}
+
+#video {
+    background-color: rgb(179, 5, 5);
+    margin-left: -8px;
+    margin-right: -8px;
+    justify-content: center;
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.button {
+    background-color: rgb(179, 5, 5);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  
+  .button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: black;
+  }
+
+  .tableauPlaceholder {
+    width: 100%;
+  }
